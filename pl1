@@ -1,24 +1,5 @@
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier 1
-https://zozotv.xyz:443/live/mubaen/k895427/156.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier 2
-https://zozotv.xyz:443/live/mubaen/k895427/568.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier League 3
-https://zozotv.xyz:443/live/mubaen/k895427/157.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier League 4
-https://zozotv.xyz:443/live/mubaen/k895427/569.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier League 5
-https://zozotv.xyz:443/live/mubaen/k895427/2204.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Premier League 6
-https://zozotv.xyz:443/live/mubaen/k895427/2205.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Football
-https://zozotv.xyz:443/live/mubaen/k895427/158.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Sport Plus.(z)televizo
-https://zozotv.xyz:443/live/mubaen/k895427/482.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports",Grandstand.(z)televizo
-https://zozotv.xyz:443/live/mubaen/k895427/570.ts
 
 
 
@@ -27,46 +8,44 @@ https://zozotv.xyz:443/live/mubaen/k895427/570.ts
 
 
 
-
-#EXTINF:-1 tvg-name="Astro Football" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASTRO NEW B",Astro Football
-http://31.42.187.37:25461/watchpad13158/1234/111
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASTRO NEW B",Astro Grandstand
-http://31.42.187.37:25461/watchpad13158/1234/112
-#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASTRO NEW B",Astro Premier 1
-http://31.42.187.37:25461/watchpad13158/1234/114
-#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASTRO NEW B",Astro Premier 2
-http://31.42.187.37:25461/watchpad13158/1234/113
-
-
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP A",Football
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP A",Grandstand
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP A",Premier 1
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP A",Premier 2
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18622.ts
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP A",Grandstand
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASSP A",Football
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 
 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP B",Football
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP B",Grandstand
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP B",Premier 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1366
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP B",Premier 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP B",Grandstand
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASSP B",Football
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
 
 
-#EXTINF:-1  tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP F",Premier 1 
-http://extraott.com:80/live/3969424152/3723991250/153953.m3u8 
-#EXTINF:-1  tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP F",Premier 2 
-http://extraott.com:80/live/3969424152/3723991250/153952.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="ASSP F",Premier 3
-http://extraott.com:80/live/3969424152/3723991250/153951.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="ASSP F",Premier 4
-http://extraott.com:80/live/3969424152/3723991250/153950.m3u8 
+#EXTINF:-1 tvg-name="Astro Football" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP C",Astro Football
+http://31.42.187.37:25461/watchpad13158/1234/111
+#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP C",Astro Grandstand
+http://31.42.187.37:25461/watchpad13158/1234/112
+#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP C",Astro Premier 1
+http://31.42.187.37:25461/watchpad13158/1234/114
+#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP C",Astro Premier 2
+http://31.42.187.37:25461/watchpad13158/1234/113
 
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP C",Football
+https://zozotv.xyz:443/live/mubaen/k895427/158.ts
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP C",Grandstand
+https://zozotv.xyz:443/live/mubaen/k895427/570.ts
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP C",Premier 1
+https://zozotv.xyz:443/live/mubaen/k895427/156.ts
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP C",Premier 2
+https://zozotv.xyz:443/live/mubaen/k895427/157.ts
 
 
 #####################################################################################
@@ -74,14 +53,14 @@ http://extraott.com:80/live/3969424152/3723991250/153950.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="ASTRO ARENA GROUP",Arena 1 (C)
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="ASTRO ARENA GROUP",Arena 1 (A)
 http://31.42.187.37:25461/watchpad13158/1234/286
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="ASTRO ARENA GROUP",Arena 2 (C)
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="ASTRO ARENA GROUP",Arena 2 (A)
 http://31.42.187.37:25461/watchpad13158/1234/336
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="ASTRO ARENA GROUP",Arena 1 (D)
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="ASTRO ARENA GROUP",Arena 1 (B)
 https://zozotv.xyz:443/live/mubaen/k895427/154.ts
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="ASTRO ARENA GROUP",Arena 2 (D)
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="ASTRO ARENA GROUP",Arena 2 (B)
 https://zozotv.xyz:443/live/mubaen/k895427/400.ts
 
 
@@ -97,8 +76,11 @@ http://31.42.187.37:25461/watchpad13158/1234/332
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="ASTRO BADMINTON",Astro Badminton_1
 http://31.42.187.37:25461/watchpad13158/1234/19047
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="ASTRO BADMINTON",Astro Badminton_4
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="ASTRO BADMINTON",Astro Badminton_2
 https://zozotv.xyz:443/live/mubaen/k895427/155.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="ASTRO SPORT+",Sport Plus
+https://zozotv.xyz:443/live/mubaen/k895427/482.ts
 
 
 #####################################################################################
