@@ -38,13 +38,13 @@ http://31.42.187.37:25461/watchpad13158/1234/114
 http://31.42.187.37:25461/watchpad13158/1234/113
 
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP C",Football
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASSP D",Football
 https://zozotv.xyz:443/live/mubaen/k895427/158.ts
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP C",Grandstand
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASSP D",Grandstand
 https://zozotv.xyz:443/live/mubaen/k895427/570.ts
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP C",Premier 1
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASSP D",Premier 1
 https://zozotv.xyz:443/live/mubaen/k895427/156.ts
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP C",Premier 2
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASSP D",Premier 2
 https://zozotv.xyz:443/live/mubaen/k895427/157.ts
 
 
